@@ -1,0 +1,25 @@
+{
+  "name": "@umi-block/admin_template",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "authors": {
+    "name": "zhouxue02",
+    "email": "zhouxue02@corp.netease.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://g.hz.netease.com/overmind/umi-block/tree/master/AdminTemplate/"
+  },
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.0.0",
+    "umi-plugin-block-dev": "^2.0.0"
+    },
+  "license": "MIT"
+}
