@@ -1,10 +1,9 @@
-# @umi-block/adminTemplate
+# @umi-block
 
 ## Usage
 
-```sh
-umi block https://g.hz.netease.com/overmind/umi-block/
-```
+This package contains some default page templates for overmind-admin project, with which the admin project could directly install through urls.
+
 
 ## LICENSE
 

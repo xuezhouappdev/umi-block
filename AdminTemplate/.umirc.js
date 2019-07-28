@@ -1,5 +1,5 @@
 export default {
-  block: {defaultGitUrl: 'https://g.hz.netease.com/overmind/umi-block'},
+  block: {defaultGitUrl: 'https://github.com/xuezhouappdev/umi-block'},
   plugins: [
     ['umi-plugin-block-dev', {
     }],
